@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2E9EF7,100:0F172A&height=250&text=DINESH%20KUMAR&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20MERN%20Developer&descAlignY=65&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Final+Year+B.Tech+IT+Student;Building+ThinkHub+%26+MetaQR;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Building+things+that+actually+ship;Final+Year+B.Tech+IT+Student;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
 
 <br>
 
@@ -13,17 +13,16 @@
 
 ---
 
-### 🚀 About Me
+### 👋 A little about me
 
-- 🎓 Final-year **B.Tech Information Technology** student at Erode Sengunthar Engineering College (CGPA: 7.83)
-- 💻 **Full Stack MERN Developer** with hands-on experience building and deploying real-world web apps
-- 🔍 Curious and self-driven — constantly exploring beyond the stack
-- 🛒 Strong interest in **e-commerce** and business-driven development
-- 🛠️ Recently built **ThinkHub** — a full-stack community blog platform (deployed on Render + Netlify)
-- 💼 Completed a **Web Developer Internship** at Codec Technologies Pvt. Ltd. (Mar–Apr 2026)
-- 🌱 Currently sharpening my **DSA** and **system design** skills for placements
+Final-year **B.Tech IT** student at Erode Sengunthar Engineering College (CGPA: 7.83), who'd rather build something real than just read about it. I work mainly in the **MERN stack** — React on the front, Node/Express on the back, MongoDB holding it all together — and I like understanding *why* a product works, not just how the code runs.
+
+- 🛠️ Built and deployed **ThinkHub**, a full-stack community blog platform, end-to-end — schema to server to live URL
+- 💼 Interned as a **Web Developer at Codec Technologies** (Mar–Apr 2026), shipping real features under real deadlines
+- 🛒 Genuinely curious about the business side of tech — how e-commerce, growth, and engineering decisions connect
+- 🌱 Right now: sharpening **DSA** and system design for placement season
 - 📍 Based in Tiruppur, Tamil Nadu
-- 📫 Reach me: dineshsudhakaran2706@gmail.com
+- 📫 dineshsudhakaran2706@gmail.com
 
 ---
 
@@ -74,22 +73,22 @@
 
 ### 🔥 Featured Projects
 
-| Project | Description | Tech Stack |
+| Project | What it does | Built with |
 |---|---|---|
-| 🧵 **[ThinkHub](https://github.com/DineshKumar-02/ThinkHub--A-Community-Blog-Web-Application)** | Full-stack blog platform — signup, 14 topic categories, post publishing with REST APIs | React, Node.js, Express.js, MongoDB |
-| 🔗 **[MetaQR](https://github.com/DineshKumar-02/METAQR-GEN)** | Real-time text/URL to QR code generator, pure DOM manipulation, no libraries | HTML5, CSS3, JavaScript |
-| 🌐 **[Portfolio](https://github.com/DineshKumar-02/Dinesh-Portfolio)** | Personal developer portfolio showcasing projects & skills | HTML5, CSS3, JavaScript |
+| 🧵 **[ThinkHub](https://github.com/DineshKumar-02/ThinkHub--A-Community-Blog-Web-Application)** | Full-stack blog platform — sign up, browse 14 topic categories, publish posts, all backed by REST APIs | React, Node.js, Express.js, MongoDB |
+| 🔗 **[MetaQR](https://github.com/DineshKumar-02/METAQR-GEN)** | Converts any text/URL into a downloadable QR code in real time — pure DOM manipulation, zero libraries | HTML5, CSS3, JavaScript |
+| 🌐 **[Portfolio](https://github.com/DineshKumar-02/Dinesh-Portfolio)** | My personal site — projects, skills, and how to reach me | HTML5, CSS3, JavaScript |
 
-**🔴 Live Demos:** [ThinkHub](https://thinkhub-blog.netlify.app) · [MetaQR](https://qrcode-gen-bydk.netlify.app) · [Portfolio](https://dineshkumar-portfolio2706.netlify.app)
+**🔴 See them live:** [ThinkHub](https://thinkhub-blog.netlify.app) · [MetaQR](https://qrcode-gen-bydk.netlify.app) · [Portfolio](https://dineshkumar-portfolio2706.netlify.app)
 
 ---
 
 ### 💼 Experience
 
 **Web Developer Intern** — Codec Technologies Pvt. Ltd. *(Mar 2026 – Apr 2026, Remote)*
-- Independently built ThinkHub, a full-stack MERN blog app with end-to-end ownership from system design to cloud deployment
-- Developed RESTful APIs using Express.js and Node.js; connected to MongoDB via Mongoose ODM
-- Built a React.js frontend with React Router DOM, client-side validation, deployed on Netlify with Git version control
+- Owned ThinkHub end-to-end — from system design to cloud deployment, independently
+- Built RESTful APIs with Express.js and Node.js, connected to MongoDB via Mongoose ODM
+- Shipped a React.js frontend with React Router DOM and client-side validation, deployed on Netlify
 
 ---
 
@@ -118,7 +117,7 @@
 
 ---
 
-### 🎯 Extra-Curricular Activities
+### 🎯 Beyond code
 
 - 🏛️ **IP Management Strategies Workshop** — iTNT Hub & Surana & Surana *(Apr 2026)*
 - 💻 **HackTheRank Online Coding Quiz** — Unstop *(Mar 2026)*, Certificate of Participation
@@ -133,7 +132,7 @@
 
 <div align="center">
 
-🚀 *Currently preparing for placements — DSA grind in progress!*
+🚀 *Currently deep in DSA prep for placement season — let's connect if you're hiring!*
 
 <img src="https://komarev.com/ghpvc/?username=DineshKumar-02&color=2E9EF7&style=flat-square&label=Profile+Views" />
 
