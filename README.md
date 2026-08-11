@@ -20,7 +20,6 @@ Final-year **B.Tech IT** student at Erode Sengunthar Engineering College (CGPA: 
 - 🛠️ Built and deployed **ThinkHub**, a full-stack community blog platform, end-to-end — schema to server to live URL
 - 💼 Interned as a **Web Developer at Codec Technologies** (Mar–Apr 2026), shipping real features under real deadlines
 - 🛒 Genuinely curious about the business side of tech — how e-commerce, growth, and engineering decisions connect
-- 🌱 Right now: sharpening **DSA** and system design for placement season
 - 📍 Based in Tiruppur, Tamil Nadu
 - 📫 dineshsudhakaran2706@gmail.com
 
