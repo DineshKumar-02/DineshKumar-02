@@ -1,15 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2E9EF7,100:0F172A&height=280&text=DINESH%20KUMAR%20S&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20MERN%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- HERO HEADER: CYBERPUNK AURORA DYNAMIC GRADIENT & TWINKLING EFFECT  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,20:0b0f2a,40:1e1b4b,65:2563eb,85:38bdf8,100:030712&height=310&text=DINESH%20KUMAR%20S&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A8%20Full%20Stack%20MERN%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Problem%20Solver%20%E2%9C%A8&descAlignY=62&descSize=19&animation=twinkling" width="100%" alt="Dinesh Kumar Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;I+build+things+that+actually+ship;Java+%7C+React+%7C+Node.js+%7C+MongoDB;AWS+%7C+Docker+%7C+Supabase+%7C+PostgreSQL;Open+to+Full-Time+%26+Internship+Opportunities" alt="Typing SVG" />
+<!-- TYPING ANIMATION SUBTITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&lines=Full+Stack+MERN+Architect;Building+Resilient%2C+High-Performance+Web+Apps;React+%7C+Node.js+%7C+Express+%7C+MongoDB+%7C+PostgreSQL;AWS+Cloud+%7C+Docker+%7C+Supabase+%7C+REST+APIs;Open+to+Full-Time+Software+Developer+Opportunities!" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=netlify&logoColor=white)](https://dineshportolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh45)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshsudhakaran2706@gmail.com)
+<!-- QUICK CONNECT / SOCIAL BADGES -->
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dineshportolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh45)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshsudhakaran2706@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917904125112)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DineshKumar-02)
+
+<br/>
+
+<!-- RECRUITER QUICK SNAPSHOT PILLS -->
+[![Status](https://img.shields.io/badge/Status-Actively_Interviewing-brightgreen?style=flat-square&logo=target)](mailto:dineshsudhakaran2706@gmail.com)
+[![Degree](https://img.shields.io/badge/B.Tech-Information_Technology-blue?style=flat-square&logo=academia)](https://github.com/DineshKumar-02)
+[![CGPA](https://img.shields.io/badge/CGPA-7.83%2F10-orange?style=flat-square)](https://github.com/DineshKumar-02)
+[![Focus](https://img.shields.io/badge/Focus-MERN_%7C_Cloud_%7C_System_Design-8A2BE2?style=flat-square)](https://github.com/DineshKumar-02)
 
 </div>
 
@@ -21,8 +35,8 @@ Final-year **B.Tech IT** student at Erode Sengunthar Engineering College *(CGPA:
 
 I work in the **MERN stack** — React on the front, Node/Express on the back, MongoDB and PostgreSQL holding data — and I actually care about *why* a product works, not just how the code compiles.
 
-```
-🏗️  Currently building → Revise-X (Developer Cheatsheet Platform)
+```yaml
+🏗️  Currently building → Revise-X (Developer Revision & Cheatsheet Platform)
 💼  Interned at        → Codec Technologies Pvt. Ltd. (Mar–Apr 2026)
 ☁️  Cloud exposure     → AWS EC2, S3 (Static Hosting), IAM
 🤖  AI tools I use     → Claude, Ollama, Hugging Face
@@ -32,7 +46,19 @@ I work in the **MERN stack** — React on the front, Node/Express on the back, M
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 Engineering Philosophy
+
+> *"I am a person who partially believes in marks, but fully trusts in improving my knowledge, because knowledge makes you valuable, increases your worthiness, and earns you respect. But it's not just about seeking respect—sharing earned and learned knowledge with others helps build a strong network and opens up new opportunities."*
+
+---
+
+## 🛠️ Technical Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,vite,nodejs,express,mongodb,postgres,supabase,aws,docker,git,github,postman,vscode&perline=9" alt="Skills Matrix" />
+</div>
+
+<br/>
 
 **Languages**
 
@@ -86,8 +112,37 @@ I work in the **MERN stack** — React on the front, Node/Express on the back, M
 
 ## 🔥 Featured Projects
 
+### 🎬 Cinephile / CinePulse — Full-Stack Netflix Clone
+> *React.js · Vite · Node.js · Express.js · Supabase · PostgreSQL · TMDB API · Render*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DineshKumar-02/Dinesh-Portfolio/main/Projects/Cinephile/Project%20Screenshots/browse_page.png" width="94%" alt="Cinephile Netflix Clone Showcase" style="border-radius: 12px;"/>
+</p>
+
+A production-grade Netflix clone with real movie data, user auth, and a persistent watchlist — not a template, built from scratch.
+
+- Fetches live movie data (genre rows, trailers, search) from the **TMDB REST API** with debounced search
+- User auth via **Supabase Auth**; watchlist persisted in **PostgreSQL** with Row-Level Security
+- Node.js/Express.js backend deployed on Render with env variable isolation and CORS config
+- Built dual-tier fallback to direct Supabase SDK during backend cold starts on Render free tier
+
+<p align="center">
+  <a href="https://netflix-clone-frontend-4dsa.onrender.com/login" target="_blank">
+    <img src="https://img.shields.io/badge/Live-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/DineshKumar-02/netflix-clone" target="_blank">
+    <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
+
+---
+
 ### 🧵 ThinkHub — Community Blogging Platform
 > *React.js · Node.js · Express.js · MongoDB · Render*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DineshKumar-02/Dinesh-Portfolio/main/Projects/Thinkhub/Project%20Screenshots/home_page.png" width="94%" alt="ThinkHub Community Blog Showcase" style="border-radius: 12px;"/>
+</p>
 
 A full-stack MERN community blog where users sign up, explore **14 topic categories**, publish posts with images, and manage their content — all backed by REST APIs and MongoDB.
 
@@ -95,62 +150,82 @@ A full-stack MERN community blog where users sign up, explore **14 topic categor
 - Deployed frontend and backend as separate services on Render with CORS and env var configuration
 - Configured GitHub-connected deployments with structured commit history
 
-[![Live](https://img.shields.io/badge/Live-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://thinkhub-a-community-blog-web.onrender.com/)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DineshKumar-02/ThinkHub--A-Community-Blog-Web-Application)
-
----
-
-### 🎬 Cinephile — Full-Stack Netflix Clone
-> *React.js · Vite · Node.js · Express.js · Supabase · PostgreSQL · TMDB API · Render*
-
-A production-grade Netflix clone with real movie data, user auth, and a persistent watchlist — not a template, built from scratch.
-
-- Fetches live movie data (genre rows, trailers, search) from the **TMDB REST API** with debounced search
-- User auth via **Supabase Auth**; watchlist persisted in **PostgreSQL** with Row-Level Security
-- Node.js/Express.js backend deployed on Render with env variable isolation and CORS config
-
-[![Live](https://img.shields.io/badge/Live-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://netflix-clone-frontend-4dsa.onrender.com/login)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DineshKumar-02/netflix-clone)
+<p align="center">
+  <a href="https://thinkhub-a-community-blog-web.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/DineshKumar-02/ThinkHub--A-Community-Blog-Web-Application" target="_blank">
+    <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
 
 ---
 
 ### 📚 Revise-X — Developer Cheatsheet Platform *(In Progress)*
 > *React.js · Vite · Node.js · Express.js · MongoDB · Netlify*
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DineshKumar-02/Dinesh-Portfolio/main/Projects/Revise-X/Project%20Screenshots/home_page.png" width="94%" alt="Revise-X Platform Showcase" style="border-radius: 12px;"/>
+</p>
+
 A developer-focused revision platform with visual cheatsheets, instant search, and structured notes — because good devs revisit the basics.
 
 - React.js + Vite frontend with reusable components, navigation, and LocalStorage state
+- In-browser sample PDF preview modals with dynamic watermarking
 - Backend REST APIs being built with Node.js, Express.js, and MongoDB for content management
 
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://revise-x.netlify.app/)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DineshKumar-02/REVISE-X-PROJECT)
+<p align="center">
+  <a href="https://revise-x.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/DineshKumar-02/REVISE-X-PROJECT" target="_blank">
+    <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
 
 ---
 
 ### ⚡ MetaQR — QR Code Generator
 > *HTML5 · CSS3 · JavaScript · AWS S3*
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DineshKumar-02/Dinesh-Portfolio/main/Projects/MetaQR--QR-Code-Generator/Project%20Screenshots/Screenshot%202026-07-16%20005541.png" width="94%" alt="MetaQR Generator Showcase" style="border-radius: 12px;"/>
+</p>
+
 Converts any text or URL into a downloadable QR code instantly — no libraries, pure DOM manipulation. Deployed on AWS S3 static hosting.
 
-[![Live (AWS S3)](https://img.shields.io/badge/Live_AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)](https://my-website-bucket0627.s3.eu-north-1.amazonaws.com/index.html)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DineshKumar-02/METAQR-GEN)
+- Styled with clean dark glassmorphism inspired by Solana and MetaMask
+- Implemented client-side PNG and PDF template exports
+- Integrated `localStorage` persistence for generation history
+
+<p align="center">
+  <a href="https://my-website-bucket0627.s3.eu-north-1.amazonaws.com/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Live_(AWS_S3)-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="Live AWS S3" />
+  </a>
+  <a href="https://github.com/DineshKumar-02/METAQR-GEN" target="_blank">
+    <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications & Verified Credentials
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DineshKumar-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshKumar-02&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Click on any certificate to view the verified PDF or credential file:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshKumar-02&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshKumar-02&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
+| Certificate | Issuer | Verification Link | Date |
+|:---|:---|:---:|:---:|
+| **Web Developer Internship** | Codec Technologies Pvt. Ltd. | [📜 View PDF](https://github.com/DineshKumar-02/Dinesh-Portfolio/blob/main/Certification/Internship%20Certificate.pdf) | Apr 2026 |
+| **Student Assessment in Web Dev** | AICTE / PARAKH | [📜 View PDF](https://github.com/DineshKumar-02/Dinesh-Portfolio/blob/main/Certification/Web-Developement(parakh).pdf) | Mar 2026 |
+| **Data Analytics Job Simulation** | Deloitte / Forage | [📜 View PDF](https://github.com/DineshKumar-02/Dinesh-Portfolio/blob/main/Certification/Deloitte%20Data%20Analytics%20Completion_certificate.pdf) | Apr 2026 |
+| **Front-End Engineering Simulation** | SkyScanner / Forage | [📜 View PDF](https://github.com/DineshKumar-02/Dinesh-Portfolio/blob/main/Certification/SkyScanner%20-%20Front-emnd%20_completion_certificate%20(1).pdf) | Apr 2026 |
+| **Java (Basics)** | HackerRank | [📜 View Image](https://raw.githubusercontent.com/DineshKumar-02/Dinesh-Portfolio/main/Certification/java_basic%20certificate_page-0001.jpg) | Jan 2026 |
+| **HTML5 Certificate** | Infosys Springboard | [📜 View PDF](https://github.com/DineshKumar-02/Dinesh-Portfolio/blob/main/Certification/Html5.pdf) | Feb 2026 |
+| **CSS3 Certificate** | Infosys Springboard | [📜 View PDF](https://github.com/DineshKumar-02/Dinesh-Portfolio/blob/main/Certification/css3.pdf) | Feb 2026 |
+| **JavaScript (ES6+) Certificate** | Infosys Springboard | [📜 View PDF](https://github.com/DineshKumar-02/Dinesh-Portfolio/blob/main/Certification/javascript.pdf) | Feb 2026 |
+| **MongoDB Overview: Core Concepts** | MongoDB University | [📜 View Credential](https://university.mongodb.com/) | Apr 2026 |
+| **Introduction to Cryptocurrency** | Infosys Springboard | [📜 View PDF](https://github.com/DineshKumar-02/Dinesh-Portfolio/blob/main/Certification/Introduction%20to%20CryptoCurrency.pdf) | Apr 2026 |
+| **Financial Modeling - Real Estate** | Professional Education Council | [📜 View PDF](https://github.com/DineshKumar-02/Dinesh-Portfolio/blob/main/Certification/real%20estate%20course%20completion%20certificate.pdf) | Jun 2025 |
 
 ---
 
@@ -165,16 +240,6 @@ Converts any text or URL into a downloadable QR code instantly — no libraries,
 
 ---
 
-## 📜 Certifications
-
-| Certificate | Issuer | Date |
-|---|---|---|
-| MongoDB Overview: Core Concepts and Architecture | MongoDB University | Apr 2026 |
-| HTML5, CSS3 & JavaScript | Infosys Springboard | Jan–Feb 2026 |
-| Java (Basics) | HackerRank | Jan 2026 |
-
----
-
 ## 🎯 Beyond Code
 
 - 🏛️ **IP Management Strategies Workshop** — iTNT Hub & Surana & Surana *(Apr 2026)*
@@ -186,9 +251,26 @@ Converts any text or URL into a downloadable QR code instantly — no libraries,
 
 | Institution | Degree | Year | Score |
 |---|---|---|---|
-| Erode Sengunthar Engineering College | B.Tech — Information Technology | 2022–2027 | CGPA: 7.83 |
-| Kathiravan Matriculation Hr. Sec. School | HSLC | 2022 | 71.8% |
-| Kathiravan Matriculation Hr. Sec. School | SSLC | 2020 | 74.6% |
+| Erode Sengunthar Engineering College | B.Tech — Information Technology | 2022–2027 | **CGPA: 7.83** |
+| Kathiravan Matriculation Hr. Sec. School | HSLC | 2022 | **71.8%** |
+| Kathiravan Matriculation Hr. Sec. School | SSLC | 2020 | **74.6%** |
+
+---
+
+## 📊 GitHub Stats & Real-Time Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DineshKumar-02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshKumar-02&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshKumar-02&theme=tokyonight&hide_border=true&background=030712&stroke=38bdf8&ring=818cf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshKumar-02&theme=tokyo-night&hide_border=true&bg_color=030712&color=38bdf8&line=818cf8&point=38bdf8" width="100%" alt="Activity Graph"/>
+</p>
 
 ---
 
@@ -198,11 +280,15 @@ Converts any text or URL into a downloadable QR code instantly — no libraries,
 
 *If you're building something interesting, let's connect.*
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh45)
-[![Gmail](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshsudhakaran2706@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh45)
+[![Gmail](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshsudhakaran2706@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/Direct_Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917904125112)
 
-<img src="https://komarev.com/ghpvc/?username=DineshKumar-02&color=2E9EF7&style=flat-square&label=Profile+Views" />
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2E9EF7,100:0F172A&height=120&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=DineshKumar-02&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+<!-- FOOTER AURORA WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,20:0b0f2a,40:1e1b4b,65:2563eb,85:38bdf8,100:030712&height=120&section=footer" width="100%" alt="Footer Wave"/>
 
 </div>
